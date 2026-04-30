@@ -1,4 +1,4 @@
-# VilaNova01 — Jogo de Matemática com Raspberry Pi Pico W
+# Jogo de Matemática com Raspberry Pi Pico W
 
 Projeto educacional para a **BitDogLab** com Raspberry Pi Pico W. O jogador resolve operações matemáticas (adição, multiplicação e divisão) usando um teclado matricial 4×4. A cada 5 acertos, um servo motor libera um prêmio e o buzzer toca uma fanfarra. O progresso é exibido em tempo real via interface web acessada por Wi-Fi.
 
